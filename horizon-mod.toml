@@ -1,0 +1,11 @@
+id = "kyro_overlay"
+name = "KYRO Main Menu"
+version = "0.1.0"
+description = "KYRO title-screen branding and Discord link"
+api = "0.2"
+side = "client"
+capabilities = ["registries"]
+
+[native]
+game = "26.3"
+horizon = "c07bfa76e71e8db9e84a7e61832a8fb898718e81"
